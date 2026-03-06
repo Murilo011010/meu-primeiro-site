@@ -1,0 +1,55 @@
+body {
+    background-color:#101333;
+    justify-content:center;
+}
+#Title{
+    color:#ffffff;
+    text-shadow:5px 5px 10px #1233C7;
+    text-align:center;
+    font-size:80px;
+    letter-spacing:-5px;
+}
+#text{
+    color:#ffffff;
+    text-align:center;
+    font-size:10px;
+    line-height:2.0;
+    padding:-100px -100px;
+    text-shadow:5px 5px 10px #1233C7;
+}
+.container{
+    width:50%;
+    margin:0 auto;
+    text-align:center;
+}
+#legend{
+    color:#ffffff;
+    font-size:25px
+}
+#form{
+    color:#ffffff;
+    text-shadow:4px 4px 8px #1233C7;
+}
+#name{
+    letter-spacing:-1px;
+}
+#email{
+    letter-spacing:-1px;
+}
+#pass{
+    letter-spacing:-1px;
+}
+.container2{
+    width:50%;
+    margin:0 auto;
+    text-align:center;
+}
+#button{
+    background-color:#1233C7;
+    border:none;
+    border-radius:10px;
+    color:#FFFFFF;
+    padding:15px 30px;
+    font-size:15px;
+    font-family:"Arial Black";
+}
